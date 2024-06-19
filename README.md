@@ -1,1 +1,1 @@
-Programa básico de imc para o curso de dart/glutter da DIO
+Programa básico de imc para o curso de dart/flutter da DIO
